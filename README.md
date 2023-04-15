@@ -1,2 +1,4 @@
-# Chat
- Project for chatting with chat gpt from terminal
+### To run: 
+```shell
+mvn clean install exec:java 
+``` 
