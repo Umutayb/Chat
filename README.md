@@ -1,6 +1,6 @@
 ### To run: 
 ```shell
-mvn clean install exec:java 
+mvn clean -q install exec:java -DskipTests
 ``` 
 
 Make sure your ChatGPT token in your `src/test/resources/test.properties` file:
